@@ -58,7 +58,7 @@ Epic link: https://issues.openmrs.org/browse/O3-1299
 | O3-1306      | https://issues.openmrs.org/browse/O3-1306    | [O3-1306: Implement the search by drug order feature](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/19)                         | Merged           |
 | O3-1445      | https://issues.openmrs.org/browse/O3-1445    | [O3-1445: Add search composition feature](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/20)                                     | Merged           |
 | O3-1471      | https://issues.openmrs.org/browse/O3-1471    | [O3-1471: Add css to fix the broken UI layout](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)                                | Merged           |
-| O3-1472      | https://issues.openmrs.org/browse/O3-1472    | [O3-1472: Fix the tests that were skipped due to the migration](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)               | Ready for review |
+| O3-1472      | https://issues.openmrs.org/browse/O3-1472    | [O3-1472: Fix the tests that were skipped due to the migration](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)               | Merged |
 
 ## Resources
 
