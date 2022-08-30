@@ -33,7 +33,7 @@ GSoC project link: https://summerofcode.withgoogle.com/programs/2022/projects/8E
 | Week 8  | https://anjulashanaka.medium.com/coding-week-08-gsoc-2022-with-openmrs-165f88c13a97    |
 | Week 9  | https://anjulashanaka.medium.com/coding-week-09-gsoc-2022-with-openmrs-e8bb1b5d5357    |
 | Week 10 | https://anjulashanaka.medium.com/coding-week-10-gsoc-2022-with-openmrs-2277ba6f2e45    |
-| Week 11 |                                                                                        |
+| Week 11 | https://anjulashanaka.medium.com/coding-week-11-gsoc-2022-with-openmrs-5ca7f2503d82    |
 | Week 12 |                                                                                        |
 
 ## JIRA Tickets
@@ -59,6 +59,7 @@ Epic link: https://issues.openmrs.org/browse/O3-1299
 | O3-1445      | https://issues.openmrs.org/browse/O3-1445    | [O3-1445: Add search composition feature](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/20)                                     | Merged           |
 | O3-1471      | https://issues.openmrs.org/browse/O3-1471    | [O3-1471: Add css to fix the broken UI layout](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)                                | Merged           |
 | O3-1472      | https://issues.openmrs.org/browse/O3-1472    | [O3-1472: Fix the tests that were skipped due to the migration](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)               | Merged |
+| O3-1482 | https://issues.openmrs.org/browse/O3-1482 | [O3-1482: Wrap the global selectors with a custom class](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/24) | Merged |
 
 ## Resources
 
