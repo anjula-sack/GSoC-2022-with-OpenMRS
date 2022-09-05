@@ -34,7 +34,7 @@ GSoC project link: https://summerofcode.withgoogle.com/programs/2022/projects/8E
 | Week 9  | https://anjulashanaka.medium.com/coding-week-09-gsoc-2022-with-openmrs-e8bb1b5d5357    |
 | Week 10 | https://anjulashanaka.medium.com/coding-week-10-gsoc-2022-with-openmrs-2277ba6f2e45    |
 | Week 11 | https://anjulashanaka.medium.com/coding-week-11-gsoc-2022-with-openmrs-5ca7f2503d82    |
-| Week 12 |                                                                                        |
+| Week 12 | https://anjulashanaka.medium.com/coding-week-12-gsoc-2022-with-openmrs-6e3ee5f8d7cf    |
 
 ## JIRA Tickets
 
