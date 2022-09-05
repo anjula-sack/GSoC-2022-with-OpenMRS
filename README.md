@@ -60,6 +60,7 @@ Epic link: https://issues.openmrs.org/browse/O3-1299
 | O3-1471      | https://issues.openmrs.org/browse/O3-1471    | [O3-1471: Add css to fix the broken UI layout](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)                                | Merged           |
 | O3-1472      | https://issues.openmrs.org/browse/O3-1472    | [O3-1472: Fix the tests that were skipped due to the migration](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/22)               | Merged |
 | O3-1482 | https://issues.openmrs.org/browse/O3-1482 | [O3-1482: Wrap the global selectors with a custom class](https://github.com/openmrs/openmrs-esm-cohortbuilder/pull/24) | Merged |
+| REPORT-890 | https://issues.openmrs.org/browse/REPORT-890 | [REPORT-890: Update the openMRS version for the api 1.10](https://github.com/openmrs/openmrs-module-reporting/pull/237) | Merged |
 
 ## Resources
 
